@@ -2,58 +2,41 @@
 
 # Hi 👋, I'm at0mik
 
-### Full-Stack Developer · AI · Automation
+### Full-Stack Developer · Discord Bot Developer · AI & Automation
 
-<p>
-  I build web applications, automation systems and AI-powered tools.
-</p>
+I build web applications, Discord bots, backend systems and automation tools.
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 About Me
 
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=at0mik&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-  height="180"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=at0mik&theme=github-dark-blue&hide_border=true"
-  height="180"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=at0mik&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-  height="165"
-/>
-
-</div>
+- 💻 Full-Stack Developer
+- 🤖 Discord Bot Developer
+- ⚡ Building automation systems and backend services
+- 🧠 Interested in AI and developer tooling
+- 🇹🇷 Based in Turkey
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,nextjs,nodejs,react,php,laravel,html,css,tailwind,docker,linux,postgres,supabase,git,github&perline=8" />
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<br>
-
-<div align="center">
-
-**Web Development · Backend · Automation · AI · Infrastructure**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -63,11 +46,7 @@
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/at0mik/at0mik/output/snake.svg"
-  alt="GitHub Contribution Snake"
-  width="600"
-/>
+![Snake animation](https://raw.githubusercontent.com/at0mik/at0mik/output/snake.svg)
 
 </div>
 
@@ -75,26 +54,16 @@
 
 <div align="center">
 
-### 👁️ Profile Views
+### Discord Bot Development
 
-<img
-  src="https://komarev.com/ghpvc/?username=at0mik&label=PROFILE%20VIEWS&style=for-the-badge"
-/>
-
-<br><br>
-
-### 💬 Let's Connect
-
-<a href="https://github.com/at0mik">
-  <img src="https://img.shields.io/badge/GitHub-at0mik-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+TypeScript · Node.js · Discord.js · Backend Systems · Automation
 
 <br>
 
-<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=at0mik&label=PROFILE%20VIEWS&style=for-the-badge)
 
-<sub>Build. Break. Learn. Repeat.</sub>
+<br><br>
+
+**Build. Break. Learn. Repeat.**
 
 </div>
