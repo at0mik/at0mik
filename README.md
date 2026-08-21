@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**at0mik/at0mik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# AT0MIK
 
-Here are some ideas to get you started:
+### Full-Stack Developer · AI · Automation · Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  Building useful things, experimenting with AI, and turning ideas into working products.
+</p>
+
+</div>
+
+---
+
+## About Me
+
+- I build modern web applications, automation tools and developer-focused systems.
+- I enjoy working with AI, local LLMs, backend infrastructure and product interfaces.
+- I care about clean architecture, practical tooling and polished user experiences.
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nodejs,php,laravel,react,html,css,tailwind,docker,linux,git,github,postgres,supabase&perline=8" />
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=at0mik&show_icons=true&hide_border=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=at0mik&layout=compact&hide_border=true&theme=transparent" height="165" />
+</p>
+
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/at0mik/at0mik/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/at0mik/at0mik/output/github-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/at0mik/at0mik/output/github-snake.svg">
+  </picture>
+</p>
+
+---
+
+<div align="center">
+  <sub>Build. Break. Learn. Repeat.</sub>
+</div>
