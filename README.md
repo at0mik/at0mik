@@ -33,13 +33,13 @@
 
 ## Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/at0mik/at0mik/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/at0mik/at0mik/output/github-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/at0mik/at0mik/output/github-snake.svg">
-  </picture>
-</p>
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/at0mik/at0mik/output/snake.svg"
+    alt="snake animation"
+    width="650"
+  />
+</div>
 
 ---
 
