@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm at0mik
+# Hi 👋, I'm Yunus
 
 ### Full-Stack Developer · Discord Bot Developer · AI & Automation
 
