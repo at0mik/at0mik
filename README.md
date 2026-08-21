@@ -50,7 +50,7 @@ I build web applications, Discord bots, backend systems and automation tools.
 
 <div align="center">
 
-### 🤖 Discord Bot Development
+### Discord Bot Development
 
 TypeScript · Node.js · Discord.js · Backend Systems · Automation
 
